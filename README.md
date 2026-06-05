@@ -2,7 +2,7 @@
 
 ### 💻 Web Designer & Developer
 
-I am a passionate Web Designer & Developer dedicated to creating modern, responsive, and user-friendly websites. My focus is on combining clean design, efficient code, and exceptional user experiences to help businesses establish a strong digital presence.
+I am a Web Designer & Developer specializing in modern, responsive, and user-friendly websites. I combine creative design with clean, efficient code to build engaging digital experiences that help businesses and individuals establish a strong online presence.
 
 ---
 
