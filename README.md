@@ -29,10 +29,8 @@ I am a Web Designer & Developer specializing in modern, responsive, and user-fri
 
 ### Design
 
-* Figma
-* Adobe Photoshop
 * Responsive Web Design
-* UI/UX Design
+* Canva
 
 ### CMS & Tools
 
@@ -47,7 +45,6 @@ I am a Web Designer & Developer specializing in modern, responsive, and user-fri
 ✔ Responsive Website Design
 ✔ Business & Portfolio Websites
 ✔ Landing Pages
-✔ WordPress Development
 ✔ Website Redesign
 ✔ Performance Optimization
 ✔ SEO-Friendly Development
@@ -72,9 +69,7 @@ Feel free to connect with me for freelance projects, website development, or col
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ZANNATULNAYEEM)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=61560453990658)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://zannatulnayeem.com/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZANNATULNAYEEM&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/ZANNATULNAYEEM)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ZANNATULNAYEEM)  
 
